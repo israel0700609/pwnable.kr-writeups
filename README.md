@@ -36,12 +36,3 @@ A professionally organized repository of pwnable.kr challenge writeups focused o
 | brainfuck | Rookiss | Medium | [Writeup](./Rookiss/brainfuck/README.md) |
 | coin1 | Grotesque | Medium | [Writeup](./Grotesque/coin1/README.md) |
 | rsa_calculator | Hacker's Secret | Hard | [Writeup](./Hacker's%20Secret/rsa_calculator/README.md) |
-
-> Update this table as you complete each challenge.
-
-## Suggested Workflow
-
-1. Create a folder for the challenge inside its tier.
-2. Copy the template files from that tier's `_template` directory.
-3. Record checksec output, analysis notes, and exploitation steps.
-4. Add tested exploit code and remediation insights.
