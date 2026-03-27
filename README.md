@@ -34,3 +34,4 @@ A professionally organized repository of pwnable.kr challenge writeups focused o
 | bof | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/bof/README.md) |
 | mistake | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/mistake/README.md) |
 | coin1 | Toddler's Bottle | Medium | [Writeup](./Toddler's%20Bottle/coin1/README.md) |
+| blackjack| Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/blackjack/README.md) |
