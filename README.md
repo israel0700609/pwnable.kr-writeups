@@ -35,4 +35,5 @@ A professionally organized repository of pwnable.kr challenge writeups focused o
 | passcode | Rookiss | Medium | [Writeup](./Rookiss/passcode/README.md) |
 | brainfuck | Rookiss | Medium | [Writeup](./Rookiss/brainfuck/README.md) |
 | coin1 | Toddler's Bottle | Medium | [Writeup](./Toddler's%20Bottle/coin1/README.md) |
+| mistake | Toddler's Bottle | easy | [Writeup](./Toddler's%20Bottle/mistake/README.md) |
 | rsa_calculator | Hacker's Secret | Hard | [Writeup](./Hacker's%20Secret/rsa_calculator/README.md) |
