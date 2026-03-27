@@ -32,7 +32,5 @@ A professionally organized repository of pwnable.kr challenge writeups focused o
 | fd | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/fd/README.md) |
 | collision | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/collision/README.md) |
 | bof | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/bof/README.md) |
-| passcode | Rookiss | Medium | [Writeup](./Rookiss/passcode/README.md) |
-| brainfuck | Rookiss | Medium | [Writeup](./Rookiss/brainfuck/README.md) |
-| coin1 | Grotesque | Medium | [Writeup](./Grotesque/coin1/README.md) |
-| rsa_calculator | Hacker's Secret | Hard | [Writeup](./Hacker's%20Secret/rsa_calculator/README.md) |
+| mistake | Toddler's Bottle | Easy | [Writeup](./Toddler's%20Bottle/mistake/README.md) |
+| coin1 | Toddler's Bottle | Medium | [Writeup](./Toddler's%20Bottle/coin1/README.md) |
