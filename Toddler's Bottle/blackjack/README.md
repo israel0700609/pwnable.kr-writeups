@@ -9,15 +9,15 @@ The challenge presents a Blackjack game written in C. The goal is to reach a cas
 The main vulnerability is in the `betting()` function, which asks the user for the bet amount. The programmer tried to ensure the player cannot bet more money than they have, but the check is incomplete:
 
 ```c
-int betting() // Asks user amount to bet
+int betting()
 {
 	printf("\n\nEnter Bet: $");
 	scanf("%d", &bet);
 
-	if (bet > cash) // Only partial check!
+	if (bet > cash)
 	{
 		printf("\nYou cannot bet more money than you have.");
-		// ...
+		//...
 		return bet;
 	}
 	else return bet;
